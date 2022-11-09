@@ -8,7 +8,10 @@ NOTE: All of these are in python. I have added Notes to each code so those who d
 I am hoping to add Visual Basic files of some of the codes here. For that I need some collaborators who can help me with it.
 
 # Index
-:: Unique Characters
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+UNIQUE CHARACTERS
+
 For a password to be valid, if should have at least 1 Capital Letter, 1 digit and 1 lower letter.
 
 Psuedo: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20Password
@@ -16,3 +19,5 @@ Psuedo: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20P
 Python: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20Password.py
 
 VB: Waiting...
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
