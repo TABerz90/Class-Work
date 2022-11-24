@@ -21,3 +21,12 @@ Python: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20P
 VB: Waiting...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+PALINDROME
+Algorithm to detect whether a word is palindrome or not. (Palindrome is a word that is, when mirrored, the same word. Example redivider)
+
+Psuedo: Waiting...
+
+Python: https://github.com/TABerz90/Class-Work/blob/main/Palindrome.py
+
+VB: https://github.com/TABerz90/Class-Work/blob/main/Palindrome.vbs
