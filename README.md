@@ -6,7 +6,7 @@ This is my compilation of all the codes that I deem are important in our class. 
 
 Psuedo Codes for algorithms or works we did in class will be done in a bit. If you can send me some codes I can add them. Any help is appreciated.
 
-# Index
+# Library
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **UNIQUE CHARACTERS**
