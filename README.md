@@ -5,14 +5,14 @@ Additionally, I can also add PSUEDOCODE DOCS of each of these codes that I write
 NOTE: All of these are in python. I have added Notes to each code so those who do VB can understand what is going on in here.
 
 # Updates
-**(November 24)** 
+**(November 24)
 
 Psuedo Codes for algorithms or works we did in class will be done in a bit. If you can send me some codes I can add them. Any help is appreciated.
 
 # Index
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-UNIQUE CHARACTERS
+**UNIQUE CHARACTERS
 
 For a password to be valid, if should have at least 1 Capital Letter, 1 digit and 1 lower letter.
 
@@ -24,7 +24,7 @@ VB: Waiting...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-PALINDROME
+**PALINDROME
 
 Algorithm to detect whether a word is palindrome or not. (Palindrome is a word that is, when mirrored, the same word. Example redivider)
 
