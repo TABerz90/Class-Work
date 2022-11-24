@@ -1,5 +1,5 @@
 # Class-Work
-This is my compilation of all the codes that I deem are important in our class. If you have suggestions for any other code that I may have missed lemme know.
+This is my compilation of all the codes that I deem are important in our class. There are other codes in this library though they are in Python (I have left note files in case you want to know what is going on in them though I doubt you will be able to piece it together). If you have suggestions for any other code that I may have missed lemme know.
 
 # Updates
 **(November 24)**
