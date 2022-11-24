@@ -26,7 +26,7 @@ PALINDROME
 
 Algorithm to detect whether a word is palindrome or not. (Palindrome is a word that is, when mirrored, the same word. Example redivider)
 
-Psuedo: Waiting...
+Psuedo: https://github.com/TABerz90/Class-Work/blob/main/Palindrome
 
 Python: https://github.com/TABerz90/Class-Work/blob/main/Palindrome.py
 
