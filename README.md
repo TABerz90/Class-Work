@@ -14,7 +14,7 @@ UNIQUE CHARACTERS
 
 For a password to be valid, if should have at least 1 Capital Letter, 1 digit and 1 lower letter.
 
-Psuedo: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20Password (Thanks Amir)
+Psuedo: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20Password (Thanks Amer)
 
 Python: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20Password.py
 
@@ -26,7 +26,7 @@ PALINDROME
 
 Algorithm to detect whether a word is palindrome or not. (Palindrome is a word that is, when mirrored, the same word. Example redivider)
 
-Psuedo: https://github.com/TABerz90/Class-Work/blob/main/Palindrome (Thanks Amir)
+Psuedo: https://github.com/TABerz90/Class-Work/blob/main/Palindrome (Thanks Amer)
 
 Python: https://github.com/TABerz90/Class-Work/blob/main/Palindrome.py
 
