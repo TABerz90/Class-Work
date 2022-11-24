@@ -14,7 +14,7 @@ UNIQUE CHARACTERS
 
 For a password to be valid, if should have at least 1 Capital Letter, 1 digit and 1 lower letter.
 
-Psuedo: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20Password
+Psuedo: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20Password (Thanks Amir)
 
 Python: https://github.com/TABerz90/Class-Work/blob/main/Unique%20Characters%20Password.py
 
@@ -30,6 +30,6 @@ Psuedo: Waiting...
 
 Python: https://github.com/TABerz90/Class-Work/blob/main/Palindrome.py
 
-VB: https://github.com/TABerz90/Class-Work/blob/main/Palindrome.vbs
+VB: https://github.com/TABerz90/Class-Work/blob/main/Palindrome.vbs (Thanks Hamees)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
