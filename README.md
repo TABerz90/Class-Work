@@ -67,6 +67,8 @@ Python: https://github.com/TABerz90/Class-Work/blob/main/String%20Manipulation.p
 
 VB: *Waiting...*
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
 **EXAMPLE WORK**
 
 Output only Vowels in 'Computer Science' using a loop and then show total vowels.
