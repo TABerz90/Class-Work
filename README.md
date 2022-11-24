@@ -5,7 +5,7 @@ Additionally, I can also add PSUEDOCODE DOCS of each of these codes that I write
 NOTE: All of these are in python. I have added Notes to each code so those who do VB can understand what is going on in here.
 
 # Updates
-I am hoping to add Visual Basic files of some of the codes here. For that I need some collaborators who can help me with it.
+Psuedo Codes for algorithms or works we did in class will be done in a bit. If you can send me some codes I can add them. Any help is appreciated.
 
 # Index
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
