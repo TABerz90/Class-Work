@@ -1,7 +1,5 @@
 DECLARE String, Rstring as String
 DECLARE Counter as Integer
-String <--- ""
-Rstring <--- ""
 OUTPUT "Please enter text:"
 INPUT String
 Counter <--- len(String) - 1
