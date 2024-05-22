@@ -1,28 +1,28 @@
 # s <--- 'Computer Science'
-s = 'Computer Science'
+string = 'Computer Science'
 
 # LEFT('Computer Science', 8)
-p = s[0:8]
-print(p)
+left = string[0:8]
+print(left)
 
-# RIGHT('Comouter Science', 7)
-z = s[-1:-8]
-print(z)
+# RIGHT('Computer Science', 7)
+right = string[-1:-8]
+print(right)
 
 # MID('Computer Science', 13, 5)
 # ERROR in this situation
 # Else
-d = s[5:8]
+mid = string[5:8]
 print(d)
 
 # LENGTH('Computer Science') + 1
-x = len(s) + 1
+x = len(string) + 1
 print(x)
 
 # TO_UPPER('Computer Science')
-w = s.upper()
-print(w)
+string = string.upper()
+print(string)
 
 # TO_LOWER('COMPUTER SCIENCE')
-r = s.lower()
-print(r)
+string = string.lower()
+print(string)
